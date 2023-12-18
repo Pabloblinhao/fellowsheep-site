@@ -1,0 +1,10 @@
+.list-nav{
+    background-color: aqua;
+display: flex;
+flex-direction: column;
+justify-content: space-evenly;
+height: 900px;
+width: 80px;
+list-style: none;
+
+}
